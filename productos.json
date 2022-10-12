@@ -1,0 +1,22 @@
+[
+    {
+       "titulo": "Soga de saltar",
+       "precio": 1000,
+       "id": 1
+    },
+    {
+       "titulo": "Guantes de boxeo",
+       "precio": 30000,
+       "id": 3
+    },
+    {
+       "titulo": "Bolsa de boxeo",
+       "precio": 50000,
+       "id": 4
+    },
+    {
+       "titulo": "vendas",
+       "precio": 500,
+       "id": 5
+    }
+ ]
